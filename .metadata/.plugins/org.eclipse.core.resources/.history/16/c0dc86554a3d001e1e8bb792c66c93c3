@@ -1,0 +1,5 @@
+package br.com.senac.apiexemple.entity;
+
+public class Aluno {
+
+}
